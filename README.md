@@ -1,8 +1,8 @@
 # Basics - Yandex music
 
-Project for the "Python Fundamentals" sprint of the Tripleten learning platform.
-
 Analyze the music preferences of the inhabitants of Springfield and Shelbyville.
+
+This is the project for "Sprint 5: Python Fundamentals" of Tripleten's Data Analyst course.
 
 ---
 
