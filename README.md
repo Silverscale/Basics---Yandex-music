@@ -4,7 +4,6 @@ Analyze the music preferences of the inhabitants of Springfield and Shelbyville.
 
 This is the project for "Sprint 5: Python Fundamentals" of Tripleten's Data Analyst course.
 
----
 
 ## Project Description
 Whenever we're performing analysis, we need to formulate hypotheses that we can then test. Sometimes we accept these hypotheses; other times, we reject them. To make the right decisions, a business must be able to understand whether or not it's making the right assumptions.
